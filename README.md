@@ -6,7 +6,7 @@ The goal is to create a reusable read-optimised microservice for protocol buffer
 
 The data will be stored on a hierarchy of datastores made up of:
 
-- Memcached cluster
+- Memcached
 - DynamoDB
 - S3
 
